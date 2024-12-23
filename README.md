@@ -21,12 +21,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## [XnxcodeTeam 2021](https://github.com/XnxcodeTeam)
 <img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"><br/>
 
-``` json
-data = {
+``` javascript 
+Data = {
     "name": XnxcodeTeam,
     "established since": 2021,
 },
-    member = [
+    Member = [
         {
             "Aldi Bachtiar Rifai": Xenzi-XN1,
             "Moch Aang Ardiansyah XD.": AangQwerty,
