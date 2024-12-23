@@ -27,6 +27,7 @@ data = {
             "Aldi Bachtiar Rifai": Xenzi-XN1,
             "Moch Aang Ardiansyah XD.": AangQwerty,
             "Wahyudin Ambia": HyuCyber,
+            "Moch Yayan Juan Alvredo": yayanxd,
         }
     ]
 }
