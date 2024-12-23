@@ -16,11 +16,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 
 I love contributing to open-source projects. Here are some of my recent contributions:
-
-- [Repository 1](https://github.com/otheruser/repository1) - Added new features and fixed bugs
-- [Repository 2](https://github.com/anotheruser/repository2) - Improved documentation and code quality
-
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech.
 
+## [XnxcodeTeam 2021](https://github.com/XnxcodeTeam)
 <img align="right" src="https://media4.giphy.com/media/N5yFyURQlHTh3NUxn2/giphy.gif?cid=6c09b95283jn4mhdaqt3h89ieums63y98aauom7xlqm10726&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"><br/>
 
