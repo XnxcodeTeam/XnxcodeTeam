@@ -1,20 +1,20 @@
 ## Welcome to the XnxcodeTeam github 👋
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here's a little bit about me:
+`Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open-source projects. Here's a little bit about me:`
 
 ## About Me
 
-- 🔭 I’m currently working on improving my skills in web development.
-- 🌱 I’m currently learning Python and Html.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, and web development.
+- 🔭 I’m currently working on improving my skills in web development
+- 🌱 I’m currently learning Python and Html
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Python, and web development
 - 📫 How to reach me: [xnxcode@gmail.com](mailto:email@ang.skizofrenia.com)
-- ⚡ Fun fact: I'm a huge fan of anime and manga.
+- ⚡ Fun fact: I'm a huge fan of anime and manga
 
-## GitHub Stats
+## GitHub Stats Contribution
 
-![AangQwerty's GitHub stats](https://github-readme-stats.vercel.app/api?username=AangQwerty&show_icons=true&theme=radical)
+![XnxcodeTeam GitHub stats](https://github-readme-stats.vercel.app/api?username=AangQwerty&show_icons=true&theme=monokai)
 
-``` python
+``` json
 > I love contributing to open-source projects. Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech.
 ```
 ``` javascript 
